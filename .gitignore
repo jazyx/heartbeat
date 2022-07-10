@@ -1,0 +1,4 @@
+node_modules/
+.meteor/
+.vscode/
+.DS_Store
