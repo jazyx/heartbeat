@@ -1,8 +1,8 @@
 import React from 'react';
-import { Heartbeat } from './components/Heartbeat'
+import { Monitor } from './components/Monitor'
 
 export const App = () => (
   <div>
-    <Heartbeat />
+    <Monitor />
   </div>
 );
